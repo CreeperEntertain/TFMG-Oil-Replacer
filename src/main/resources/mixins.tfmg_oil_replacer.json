@@ -1,0 +1,9 @@
+{
+  "required": true,
+  "package": "net.centertain.tfmg_oil_replacer.mixins",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "mixins.tfmg_oil_replacer.refmap.json",
+  "mixins": [],
+  "client": [],
+  "minVersion": "0.8"
+}

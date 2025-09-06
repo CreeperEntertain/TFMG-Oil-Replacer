@@ -1,0 +1,30 @@
+{
+  "mod_elements": [],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {},
+  "language_map": {
+    "en_us": {}
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "tfmg_oil_replacer",
+    "modName": "TFMG Oil Replacer",
+    "version": "1.0.0",
+    "author": "CEntertain",
+    "license": "MIT License",
+    "serverSideOnly": false,
+    "modPicture": "logo",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.20.1",
+    "credits": "Create: The Factory Must Grow, obviously",
+    "modElementsPackage": "net.centertain.tfmg_oil_replacer"
+  },
+  "mcreatorVersion": 202400118518
+}
